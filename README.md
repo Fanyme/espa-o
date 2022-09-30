@@ -1,1 +1,1 @@
-# espa-o
+# pensamento computacional

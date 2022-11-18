@@ -4,13 +4,14 @@ body{
          h1{
     color: rgb(255, 255, 255) ;
     font-family: Georgia, 'Times New Roman', Times, serif ;
-    font-size: 888px;
+    font-size: 888;
     background: rgb(111, 140, 221);
+    text-align: center;
     }
     
     p{
     color: rgb(255, 255, 255);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
-    font-size: 560px;
+    font-size: 560;
     background: rgb(111, 140, 221);
     }
